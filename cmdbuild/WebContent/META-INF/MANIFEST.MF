@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Archiver-Version: Plexus Archiver
-Created-By: Apache Maven
-Built-By: dpavan
-Build-Jdk: 1.6.0_33
-Implementation-Title: CMDBuild Webapp
-Implementation-Version: 2.3.0
-Implementation-Vendor-Id: org.cmdbuild
-
